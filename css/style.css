@@ -1,0 +1,10 @@
+header{
+    height: 170px;
+    background-image: url(../img/pattern.png);
+    background-color: hsla(221, 90%, 72%, 0.925);
+}
+
+.logo-header {
+    height: 250px;
+    width: 250px;
+}
